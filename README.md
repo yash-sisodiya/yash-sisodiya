@@ -2,7 +2,10 @@
 
 ## Yash Sisodiya
 
-I'm Yash Sisodiya, a passionate **ReactJS Developer** with a strong focus on **Web3** and **Blockchain** applications. I specialize in both frontend and backend development, aiming to create responsive, user-friendly applications.
+I am Yash Sisodiya, a Full Stack Software Engineer from India passionate about building modern web and mobile applications. With 4+ years of professional experience in both onsite and remote environments, I am committed to delivering applications that meet production standards. 🎯
+
+I primarily work with **React**, **React Native**, **Next.js**, and **TypeScript**, alongside a strong expertise in **Web3** technologies. 🚀 Apart from this, I have experience with **Node.js**, **Nest.js**, and various databases, ensuring robust backend integration and efficient data management.
+
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yashsisodiya)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@yashsisodiya)

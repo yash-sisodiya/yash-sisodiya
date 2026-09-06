@@ -97,11 +97,6 @@ Beyond frontend development, I have hands-on experience with **Node.js, Nest.js,
 
 ---
 
-## 📊 Most Used Languages
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-sisodiya&layout=compact&langs_count=8&hide=html&hide_border=true)
----
-
 ## 🤝 Connect with Me
 
 I'm always open to interesting projects, collaborations, and opportunities.

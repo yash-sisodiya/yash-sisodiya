@@ -106,10 +106,10 @@ Beyond frontend development, I have hands-on experience with **Node.js, Nest.js,
 
 I'm always open to interesting projects, collaborations, and opportunities.
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=Linkedin\&logoColor=white)](https://linkedin.com/in/yashsisodiya)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat\&logo=Linkedin\&logoColor=white)](https://linkedin.com/in/yash-sisodiya)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat\&logo=Medium\&logoColor=white)](https://medium.com/@yashsisodiya)
 
-📧 **Email:** [yysisodiya113@gmail.com](mailto:yysisodiya113@gmail.com)
+📧 **Email:** [ysisodiya113@gmail.com](mailto:ysisodiya113@gmail.com)
 
 ---
 
